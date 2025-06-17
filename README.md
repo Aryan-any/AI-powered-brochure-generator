@@ -9,11 +9,17 @@ This project allows users to choose between local or cloud-based inference, and 
 
 🚀 What Is the Purpose of This Project?
 This project goes to a business's website, makes intelligent use of it, and extracts helpful data like
+
 Concerning the business
+
 Goods and services
+
 Leadership and teamwork
+
 Contact details
+
 Pictures or logos
+
 After that, it automatically formats everything into a clean, well-organized brochure that can be viewed in HTML or exported as a PDF.
 
 ✅ Business Applications
