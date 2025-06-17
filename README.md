@@ -23,20 +23,33 @@ Pictures or logos
 After that, it automatically formats everything into a clean, well-organized brochure that can be viewed in HTML or exported as a PDF.
 
 ✅ Business Applications
+
 Hours of manual labor can be saved with this tool. It is helpful in:
+
 Marketing agencies can produce client brochures for meetings or proposals in a timely manner.
+
 📋 Sales Teams: Prior to outreach, get an overview of the company.
+
 🧾 Business consultants: Create company summaries using only a website link.
+
 🏢 Startups: Use your own website to automatically generate content that is ready for investors.
 
 Tech Stack & Models Utilized 👇 Local + Cloud Models
+
 Ollama: A tool for locally executing AI models on your computer.
+
 Cloud model performance is tested and compared using OpenAI (GPT-4/GPT-3.5).
+
 After testing, both models functioned well. Depending on availability, the app can alternate between local and cloud models.
+
 🧰 Tools and Libraries
+
 Python (for logic in the backend)
+
 Requests & BeautifulSoup (for web scraping)
+
 ReportLab and HTML2PDF (for formatting brochures)
+
 Flask or Streamlit (optional for frontend interface)
 
 
