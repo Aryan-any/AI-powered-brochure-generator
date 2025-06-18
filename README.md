@@ -129,11 +129,9 @@ Feel free to fork this repository, add new features like multilingual support or
 ## 📬 Contact
 
 Made with 💡 by Aryan Mishra
-For queries or suggestions, feel free to reach out at: **[aryanmishra.dev@gmail.com](mailto:aryanmishra.dev@gmail.com)**
+For queries or suggestions, feel free to reach out at: **[mishraaryanm@gmail.com](mailto:mishraaryanm@gmail.com)**
 
 ---
-
-Let me know if you want me to include specific screenshots, code examples, or turn this into a web app version!
 
 
 
