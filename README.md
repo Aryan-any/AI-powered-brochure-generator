@@ -1,7 +1,4 @@
-# AI-powered-brochure-generator
-An intelligent tool that automatically creates professional brochures for companies by scraping and navigating their websites. This project leverages AI to extract relevant content—such as services, team information, contact details, and visuals—from a company's official site, then formats it into a clean, ready-to-use brochure.
-
-Here’s a detailed and beginner-friendly `README.md` file for your **AI-Powered Brochure Generator** project:
+Here’s a detailed and beginner-friendly `README.md` file for this **AI-Powered Brochure Generator** project:
 
 ---
 
@@ -45,7 +42,7 @@ This tool can save hours of manual work. It’s useful in:
 * **Ollama** – Used to run AI models locally on your machine.
 * **OpenAI (GPT-4/GPT-3.5)** – Used to test and compare cloud model performance.
 
-Both models were tested and **worked successfully**. The app can switch between local and cloud models based on availability.
+Both models were tested and **worked successfully**.
 
 ### 🧰 Libraries and Tools
 
