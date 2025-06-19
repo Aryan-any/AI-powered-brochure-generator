@@ -108,10 +108,8 @@ Output:
 
 ```
 ├── main.py                  # Main script to run the generator
-├── scraper/                 # Web scraping logic
 ├── ai_engines/              # OpenAI and Ollama model integrations
 ├── brochure_builder/        # Code to create and export brochure
-├── templates/               # Optional HTML or PDF templates
 ├── requirements.txt         # Dependencies
 ```
 
