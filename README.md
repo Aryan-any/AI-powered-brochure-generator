@@ -1,4 +1,4 @@
-Here’s a detailed and beginner-friendly `README.md` file for this **AI-Powered Brochure Generator** project:
+This is a detailed and beginner-friendly `README.md` file for this **AI-Powered Brochure Generator** project:
 
 ---
 
@@ -104,14 +104,6 @@ Output:
 
 ---
 
-## 📎 Folder Structure
-
-```
-├── main.py                  # Main script to run the generator
-├── ai_engines/              # OpenAI and Ollama model integrations
-├── brochure_builder/        # Code to create and export brochure
-├── requirements.txt         # Dependencies
-```
 
 ---
 
