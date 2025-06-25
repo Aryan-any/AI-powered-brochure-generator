@@ -115,7 +115,7 @@ Feel free to fork this repository, add new features like multilingual support or
 
 ## 📬 Contact
 
-Inspired by Edward Donner
+Inspired by Edward Donner (https://github.com/ed-donner)
 Made with 💡 by Aryan Mishra
 For queries or suggestions, feel free to reach out at: **[mishraaryanm@gmail.com](mailto:mishraaryanm@gmail.com)**
 
