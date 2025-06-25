@@ -6,7 +6,7 @@ This is a detailed and beginner-friendly `README.md` file for this **AI-Powered 
 
 An intelligent tool that automatically creates a professional brochure for any company just by entering their website link. It uses AI to understand, extract, and organize content from the website and then presents it in a clean brochure format.
 
-This project works perfectly with both **OpenAI** models and **Ollama** models running locally, giving users the flexibility to choose between cloud-based or local inference.
+This project works perfectly with both **OpenAI** models and **Ollama** models running locally, users get the flexibility to choose between cloud-based or local inference.
 
 ---
 
