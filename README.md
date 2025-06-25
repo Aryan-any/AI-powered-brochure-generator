@@ -93,7 +93,7 @@ You will be asked to enter a company website link, and the tool will generate th
 Let's say you want a brochure for **[https://www.ibm.com](https://www.ibm.com)**
 
 * Run the script
-* Enter the link: `https://www.ibm.com`
+* Enter the link: `https://www.ibm.com` or any other website link in case this website doesn't allow easy scraping.
 * The tool will:
 
   * Extract sections like “About IBM”, “Services”, “Leadership”, “Contact”
